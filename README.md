@@ -11,7 +11,7 @@
 - 👯 _never takes two_ follower
 - 🤔 _why does it run_ creator
 - 💬 _Hello World!_ tester
-- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guoziyang0033@gmail.com)](mailto:guoziyang0033@gmail.com)
+- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guoziyang0033@gmail.com)](mailto:zurishsemail@163.com)
 
 ## Some Statistics About Me
 
